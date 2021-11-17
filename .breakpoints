@@ -1,0 +1,20 @@
+{
+  "files": {
+    "dbSchema.js": [
+      {
+        "id": "f453d979-a7eb-46f4-9b15-e46ce183e463",
+        "line": 1,
+        "version": 351,
+        "index": 0
+      }
+    ],
+    "tests/2_functional-tests.js": [
+      {
+        "id": "48d7b05b-bcec-4c80-9a1f-9ac13e6fa46d",
+        "line": 1,
+        "version": 3,
+        "index": 0
+      }
+    ]
+  }
+}
